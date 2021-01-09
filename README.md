@@ -15,6 +15,12 @@ iiNA
 
 notion
 
+Better And Better
+https://www.better365.cn/bab2.html
+
+NDM：Neat Download Manager
+https://www.neatdownloadmanager.com/index.php/en/
+
 onyX
 https://www.macupdate.com/app/mac/11582/onyx
 
