@@ -30,6 +30,7 @@ https://xclient.info/s/istat-menus-for-mac.html
 - handshaker
 https://www.smartisan.com/apps/#/handshaker
 
+- MuteKey
 
 ## purchased
 - alfred
