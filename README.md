@@ -15,6 +15,9 @@
 
 - notion
 
+- brave
+- biscuit
+
 - Better And Better
 https://www.better365.cn/bab2.html
 
