@@ -35,6 +35,9 @@ https://www.smartisan.com/apps/#/handshaker
 
 - MuteKey
 
+- Karabiner-Elements
+https://karabiner-elements.pqrs.org/
+
 ## purchased
 - alfred
 - magnet
