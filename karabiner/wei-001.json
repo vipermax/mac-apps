@@ -1,0 +1,21 @@
+{
+    "title": "Wei's key setup",
+    "rules": [
+        {
+            "description": "Num_lock to ctrl+space",
+            "manipulators":
+            [{
+                "type": "basic",
+                "from": {
+                    "key_code": "keypad_num_lock"
+                },
+                "to": [
+                    {
+                        "key_code": "spacebar",
+                        "modifiers": ["left_control"]
+                    }
+                ]
+            }]
+        }
+    ]
+}
