@@ -48,4 +48,5 @@ https://karabiner-elements.pqrs.org/
 https://software.charliemonroe.net/downie/
 
 # website
-https://www.macdo.cn/
+- https://www.macdo.cn/
+- https://xclient.info/
